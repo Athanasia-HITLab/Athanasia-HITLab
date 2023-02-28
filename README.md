@@ -1,6 +1,6 @@
 ✨ Welcome to my Github profile! ✨
 
-Hello, I'm Athanasia Symeonidou! I am a XR developer & research scientist, with a PhD in engineering and a background in physics and telecom enginnering! I work at the intersection of development, research and creativity in the domain of extended reality (XR) and I have a strong interest in immmersive technologies.
+Hello, I'm Athanasia Symeonidou! I am a XR developer & research scientist, with a PhD in engineering and a background in physics and telecom enginnering! I work at the intersection of development, research and creativity in the domain of extended reality (XR) and I have a strong interest for immmersive technologies.
 
 #unity #VR #AR #MR #XR #PhD 
 
