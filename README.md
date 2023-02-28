@@ -15,9 +15,9 @@ Hello, I'm Athanasia Symeonidou! I am a XR developer & research scientist, with 
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Athanasia-HITlab&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Athanasia-HITlab" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Athanasia-HITLab&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Athanasia-HITlab" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Athanasia-HITlab&show_icons=true&locale=en&theme=chartreuse-dark" alt="Athanasia-HITlab" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Athanasia-HITLab&show_icons=true&locale=en&theme=chartreuse-dark" alt="Athanasia-HITlab" width="410"/>
 </p>
 
 
